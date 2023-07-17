@@ -9,3 +9,6 @@ Tech Stack:
 - TipTap
 - Tailwind CSS
 - Zod
+
+
+PRs are welcome. :)
